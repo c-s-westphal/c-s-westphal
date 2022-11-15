@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @c-s-westphal
-- 👀 I’m interested in algorithmic trading, with particular interest in cryptocurrencies.
-- 🌱 I’m soon going to undertaking a PhD in non-commutating AI at UCL.
+- 🌱 I’m undertaking a PhD in AI at UCL.
 
 
 <!---
